@@ -1,5 +1,14 @@
 # parliament2_SIF
 The apptainer SIF of parliament2 tools.  
+
+## download link
+```
+parliament2.sif 链接: https://pan.baidu.com/s/1sk94LKCZhSUbE6ozvkyEWg?pwd=tx6n 提取码: tx6n
+<img width="1660" height="81" alt="image" src="https://github.com/user-attachments/assets/58a84446-bbd8-4194-8146-b31181e43b3a" />
+
+
+```
+
 ## usage
 ```
 apptainer exec --no-home \
